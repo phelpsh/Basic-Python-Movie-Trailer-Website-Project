@@ -17,4 +17,4 @@ Three files:<br>
 ## Creator
 
 Created by Heather Phelps <br>
-Github: https:github.com/phelpsh
+Github: https://github.com/phelpsh
