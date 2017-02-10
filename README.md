@@ -10,9 +10,9 @@ To set up the project, download the three python files and put them together on 
 ## What’s included:
 
 Three files:<br>
-   entertainment_center.py <br>
-   fresh_tomatoes.py <br>
-   media.py <br>
+   - entertainment_center.py <br>
+   - fresh_tomatoes.py <br>
+   - media.py <br>
 
 ## Creator
 
