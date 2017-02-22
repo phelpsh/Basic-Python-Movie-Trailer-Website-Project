@@ -13,6 +13,9 @@ Three files:<br>
    - entertainment_center.py <br>
    - fresh_tomatoes.py <br>
    - media.py <br>
+   
+Output file:
+   - fresh_tomatoes.html
 
 ## Creator
 
